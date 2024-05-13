@@ -19,7 +19,9 @@ Mobile application offering a comprehensive platform for creating, learning and 
 - run symfony open:local
 ```
 
-## Objectif de la plateforme Woobile : Vulgariser le développement d'applications mobiles et promouvoir son importance.
+## Objectif de la plateforme Woobile : 
+
+Vulgariser le développement d'applications mobiles et promouvoir son importance.
     
     - Créer une plateforme conviviale et accessible: Faciliter la commande d'applications mobiles pour les utilisateurs, leur donner accès à des ressources d'apprentissage complètes et leur offrir un espace pour présenter leurs portfolios.
     
