@@ -5,7 +5,8 @@ Mobile application offering a comprehensive platform for creating, learning and 
 
 ## Requirements : 
 ```
-- PHP > 8.1
+- PHP >= 8.2
+- Openssl 3.X
 - Symfony 6.4.*
 - MariaDB >= 10.4.2
 ```
